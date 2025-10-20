@@ -54,7 +54,8 @@ h3 {
 }
 
 footer {
-    color: #ffffff
+    color: #ffffff;
+    bottom: 0;
 }
 
 a {
